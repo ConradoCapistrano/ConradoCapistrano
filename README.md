@@ -1,4 +1,4 @@
-## Olá, sou Conrado Capistrano, estudando de FullStack e tecnologia!
+## Olá, sou Conrado Capistrano, aprendiz FullStack e apaixonado por tecnologia!
 
 - 🔭 Atuando na area de Front End
 - 🌱 Estudando React.JS

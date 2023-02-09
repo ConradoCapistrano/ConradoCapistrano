@@ -5,7 +5,7 @@
 
 <div>
 	<a href="https://beacons.ai/ConradoCapistrano">
-	<img height="180em" src="https://conrado-capistrano.vercel.app/api/top-langs/?username=ConradoCapistrano&layout=compact&langs_count=16&theme=tokyonight"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConradoCapistrano&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>

@@ -18,14 +18,13 @@
   <img align="center" alt="Conrado-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Conrado-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Conrado-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Conrado-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Conrado-StyledComponents" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styled-components/styled-components-original.svg" />
-  <img align="center" alt="Conrado-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Conrado-Axios" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-original.svg" />
+  <img align="center" alt="Conrado-StyledComponents" height="30" width="40" src="https://styled-components.com/logo.png" />
+  <img align="center" alt="Conrado-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Conrado-Axios" height="30" width="40" src="https://axios-http.com/assets/logo.svg" />
   <img align="center" alt="Conrado-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img align="center" alt="Conrado-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="center" alt="Conrado-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
   <img align="center" alt="Conrado-Flux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flux/flux-original.svg" />
-  <img align="center" alt="Conrado-PWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pwa/pwa-original.svg" />
+  <img align="center" alt="Conrado-PWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </div>
 
 ##

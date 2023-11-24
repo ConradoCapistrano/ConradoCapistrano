@@ -23,8 +23,6 @@
   <img align="center" alt="Conrado-Axios" height="30" width="40" src="https://axios-http.com/assets/logo.svg" />
   <img align="center" alt="Conrado-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align="center" alt="Conrado-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
-  <img align="center" alt="Conrado-Flux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flux/flux-original.svg" />
-  <img align="center" alt="Conrado-PWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </div>
 
 ##
